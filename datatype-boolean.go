@@ -10,6 +10,8 @@ func main() {
 	var earthIsRound bool = true
 	var earthIsFlat bool = false
 
+
+
 	fmt.Println("Eart is flat is ", earthIsFlat, "Statement ")
 
 	fmt.Println("Earth is oval is a ", earthIsRound, "statement")
